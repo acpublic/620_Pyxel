@@ -13,5 +13,5 @@ sudo pip3 install -U pyxel
 ## リソースの作成方法
 Pyxel Editorを使用して、Pyxelアプリケーションで使用する画像やサウンドを作成
 ```
-pyxel edit
+pyxel edit Pyxelリソースファイル
 ```

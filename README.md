@@ -1,5 +1,8 @@
 # Pyxel
-https://github.com/kitao/pyxel/blob/main/docs/README.ja.md
+- https://github.com/kitao/pyxel/blob/main/docs/README.ja.md
+
+## VScode
+- https://qiita.com/kitao/items/04b6ab72d957de10f9a7
 
 ## インストール
 ```
